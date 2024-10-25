@@ -1,0 +1,13 @@
+---
+title: "The Intriduction of R programs"
+output: pdf_document
+date: "2024-10-25"
+---
+
+"Auxiliary.R" is a set of simple functions, including a function used for generating eigenfunction; a function used for generating image data; a function used for generating multistate data; an estimation function; a function used for calculate score value;
+
+
+“example_estimate.R” is an example of the proposed method for calculate the estimator of the coefficient of image.
+
+
+“example_score.R” is an example of the proposed method for calculate the score value.
